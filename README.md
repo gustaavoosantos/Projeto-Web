@@ -12,7 +12,7 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 
 **Fonte: Bebas_Neue**
 
-**Tamanho das fontes:** 30, 15, 12, 18, 45, 22, 16.5
+**Tamanho usado nas fontes:** 30, 15, 12, 18, 45, 22, 16.5
 
 
 **ìcones e logo**
