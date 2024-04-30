@@ -13,16 +13,21 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 **Fonte: Bebas_Neue.**
 
 
+**Paleta de cores:**
+
+
+![Paleta de Cores](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/1c1ab502-b36c-40d5-8d19-17a5c8050f9b)
+
+
+
+
+
 **ìcones:**
 
 
 ![icones](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/bf10551f-d32c-4639-8e62-08fd25526b7b)
 
 
-**Paleta de cores:**
-
-
-![Paleta de Cores](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/1c1ab502-b36c-40d5-8d19-17a5c8050f9b)
 
 
 
