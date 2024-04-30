@@ -10,7 +10,20 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 **Tema: "Música"; "Os melhores Bateristas do mundo".** 
 
 
+**Fonte: Bebas_Neue.**
+
+
+**ìcones:**
+![Uploading icons8-cy![icons8-pesquisar-64](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/fa837e5c-6f23-4a97-900d-901fe4885f17)
+![icons8-instagram-30](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/30b483ff-7329-4ba4-b22a-e4941d3e0b72)
+![icons8-facebook-novo-50](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/28aa4422-892f-4080-a898-f482a0508ad0)
+![icons8-drummer-51](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/5cb6e3ab-83ce-4f6a-a39a-26243a9b2d22)
+mbal-64.png…]()
+![icons8-cymbal-64](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/55e43fff-35b7-4aac-ad47-8672825a4569)
+
+
 **Imagens utilizadas**
+
 
 
 
@@ -28,3 +41,4 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 ![Traver 1](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/a01fe2c6-d32d-43b1-afef-ccd56b0d3804)
 ![drummer-music-set-drum-kit-band-wallpaper-preview](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/b6da9de3-0a1d-41e9-8739-4697f4038db7)
 ![d5hncnw-4eead6c1-d3ef-4f31-ad6e-054111a17ce8](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/8d49f8b1-779e-4a6b-b4df-783994e67be3)
+
