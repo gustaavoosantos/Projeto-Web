@@ -14,12 +14,13 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 
 
 **ìcones:**
-![Uploading icons8-cy![icons8-pesquisar-64](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/fa837e5c-6f23-4a97-900d-901fe4885f17)
-![icons8-instagram-30](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/30b483ff-7329-4ba4-b22a-e4941d3e0b72)
-![icons8-facebook-novo-50](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/28aa4422-892f-4080-a898-f482a0508ad0)
-![icons8-drummer-51](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/5cb6e3ab-83ce-4f6a-a39a-26243a9b2d22)
-mbal-64.png…]()
-![icons8-cymbal-64](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/55e43fff-35b7-4aac-ad47-8672825a4569)
+
+![icons8-cymbal-64](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/d44c9c0e-99a7-4f70-af3c-d69b6c2dcb12)
+
+
+![icons8-drummer-51](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/eb624782-9f63-47f0-8b7d-f1ece24f2d28)
+
+
 
 
 **Imagens utilizadas**
