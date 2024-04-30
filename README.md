@@ -48,10 +48,10 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 ![d5hncnw-4eead6c1-d3ef-4f31-ad6e-054111a17ce8](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/8d49f8b1-779e-4a6b-b4df-783994e67be3)
 
 
-**Resultado final**
+**RESULTADO FINAL DO LAYOUT DO SITE**
 
 
-**Page inicial**
+**Page 1**
 ![Page 1](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/2b154fdc-808a-4b61-8630-66f06936ca50)
 
 
