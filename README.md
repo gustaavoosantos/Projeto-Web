@@ -7,18 +7,18 @@ A nossa segunda etapa do nosso Projeto Web, foi desenvolver um layout através d
 Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 
 
-**Tema: "Música"; "Os melhores Bateristas do mundo".** 
+**Tema: "Música"; "Os melhores Bateristas do mundo"** 
 
 
-**Fonte: Bebas_Neue.**
+**Fonte: Bebas_Neue**
 
 
-**ìcones:**
+**ìcones**
 
 
 ![icones](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/bf10551f-d32c-4639-8e62-08fd25526b7b)
 
-**Paleta de cores:**
+**Paleta de cores**
 
 
 ![Paleta de Cores](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/1c1ab502-b36c-40d5-8d19-17a5c8050f9b)
@@ -45,3 +45,34 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 ![drummer-music-set-drum-kit-band-wallpaper-preview](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/b6da9de3-0a1d-41e9-8739-4697f4038db7)
 ![d5hncnw-4eead6c1-d3ef-4f31-ad6e-054111a17ce8](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/8d49f8b1-779e-4a6b-b4df-783994e67be3)
 
+
+**Resultado final**
+
+
+**Page inicial**
+![Page 1](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/2b154fdc-808a-4b61-8630-66f06936ca50)
+
+
+**Page 2**
+
+![Page 2](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/77cad316-1584-46fb-8825-7f9f40ae50ae)
+
+
+**Page 3**
+
+![Page 3](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/91fa21a2-8c6b-47d7-911d-ca95e5149a28)
+
+**Page 4**
+
+![Pageb 4](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/fab2eb61-be50-4182-aca2-af42f41ef6f4)
+
+
+**Page 5**
+![Page 5](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/c787282d-cf05-4f8c-a3ef-32e96bd16807)
+
+
+**Page 6**
+
+![Page 6](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/bfcae2f4-e72a-47c6-ae6f-e6affd2bb085)
+
+**Page 7**
