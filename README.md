@@ -12,7 +12,7 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 
 **Fonte: Bebas_Neue**
 
-**Tamanho usado nas fontes:** 30, 15, 12, 18, 45, 22, 16.5
+**Tamanho usado nas fontes:** 15, 12, 18, 45, 22, 16.5,60.
 
 
 **ìcones e logo**
@@ -54,37 +54,41 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 
 **Page 1**
 
-![Page1](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/1ea7d1e2-30c3-4087-b470-0d54378bad3f)
+![Pag1](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/90f05703-5040-4057-a94f-4dabd7439520)
+
 
 
 
 **Page 2**
 
-![Page2](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/36eb24ff-ad03-40b1-ae47-98d2fc1b1a5f)
+
+![Pag2](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/07df2577-64db-4b72-b83f-e6f44f144ebd)
 
 
 
 **Page 3**
 
-![Page3](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/0c65aeae-b4f4-4b23-9d4f-7f51c0fef7cb)
+![Pag3](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/27b9eb06-a1e3-4278-b963-63fe27f6104f)
 
 **Page 4**
 
 
-![Page4](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/e55fa32f-1a50-49c2-9a93-bb0058fd605f)
+![Pag 4](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/37b2d6bf-9940-4f70-80a2-275ac4a65404)
+
 
 
 
 **Page 5**
 
-![Page5](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/464cc59c-4d36-42df-82e8-4ea948cfdc46)
+
+![Pag5](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/9868f102-7fd5-4f80-85fc-fb6c2ba31610)
 
 
 **Page 6**
-
-![Page6](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/3f6b1714-0fb4-4953-946e-2d743eb37fd1)
+![Pag6](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/6d3cfb6f-9f22-4411-b409-9acffa055aae)
 
 
 **Page 7**
 
-![Page7](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/d3b4c149-e972-4de8-906f-baa1b82eaa7c)
+![Pag7](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/b497d8de-651c-46dc-b61f-5111544f9d04)
+
