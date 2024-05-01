@@ -18,7 +18,8 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 **ìcones e logo**
 
 
-![icones](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/bf10551f-d32c-4639-8e62-08fd25526b7b)
+![Ícones](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/f0a1bed6-b053-447d-bee7-1bce568193f8)
+
 
 **Paleta de cores**
 
@@ -52,29 +53,38 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 
 
 **Page 1**
-![Page 1](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/2b154fdc-808a-4b61-8630-66f06936ca50)
+
+![Page1](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/1ea7d1e2-30c3-4087-b470-0d54378bad3f)
+
 
 
 **Page 2**
 
-![Page 2](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/77cad316-1584-46fb-8825-7f9f40ae50ae)
+![Page2](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/36eb24ff-ad03-40b1-ae47-98d2fc1b1a5f)
+
 
 
 **Page 3**
 
-![Page 3](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/91fa21a2-8c6b-47d7-911d-ca95e5149a28)
+![Page3](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/0c65aeae-b4f4-4b23-9d4f-7f51c0fef7cb)
 
 **Page 4**
 
-![Pageb 4](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/fab2eb61-be50-4182-aca2-af42f41ef6f4)
+
+![Page4](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/e55fa32f-1a50-49c2-9a93-bb0058fd605f)
+
 
 
 **Page 5**
-![Page 5](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/c787282d-cf05-4f8c-a3ef-32e96bd16807)
+
+![Page5](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/464cc59c-4d36-42df-82e8-4ea948cfdc46)
 
 
 **Page 6**
 
-![Page 6](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/bfcae2f4-e72a-47c6-ae6f-e6affd2bb085)
+![Page6](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/3f6b1714-0fb4-4953-946e-2d743eb37fd1)
+
 
 **Page 7**
+
+![Page7](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/d3b4c149-e972-4de8-906f-baa1b82eaa7c)
