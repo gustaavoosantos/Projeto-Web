@@ -53,7 +53,7 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 
 **Página da 1 até a 4**
 
-![Pag 1 à 4](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/7a4d7832-d3e1-41dd-87bc-7bed5734bdcd)
+![Pag 1 à 4](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/a2cb3cf1-9329-4e19-aee7-a9d4b79f8816)
 
 
 **Página da 5 até a 8**
