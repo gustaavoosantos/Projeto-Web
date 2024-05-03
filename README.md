@@ -12,7 +12,7 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 
 **Fonte: Bebas_Neue**
 
-**Tamanho usado nas fontes:** 12, 15, 16.5, 18, 22, 45.
+**Tamanho usado nas fontes:** 12, 15, 16.5, 18, 22, 25, 45, 60, 90.
 
 
 **ìcones e logo**
@@ -51,45 +51,16 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 
 **RESULTADO FINAL DO LAYOUT DO SITE**
 
+**Página da 1 até a 4**
 
-**Page 1**
-
-
-![Pag1](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/59d1bc4f-cbfb-44c4-ad29-abc5e8b651c1)
+![Pag 1 à 4](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/7a4d7832-d3e1-41dd-87bc-7bed5734bdcd)
 
 
+**Página da 5 até a 8**
 
-
-**Page 2**
-
-
-![Pag2](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/07df2577-64db-4b72-b83f-e6f44f144ebd)
-
-
-
-**Page 3**
-
-![Pag3](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/27b9eb06-a1e3-4278-b963-63fe27f6104f)
-
-**Page 4**
-
-
-![Pag 4](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/37b2d6bf-9940-4f70-80a2-275ac4a65404)
+![Pag 5 à 8](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/7ed0125d-4dc7-41f2-adcc-b9ed2d48bccf)
 
 
 
 
-**Page 5**
-
-
-![Pag5](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/9868f102-7fd5-4f80-85fc-fb6c2ba31610)
-
-
-**Page 6**
-![Pag6](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/6d3cfb6f-9f22-4411-b409-9acffa055aae)
-
-
-**Page 7**
-
-![Pag7](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/b497d8de-651c-46dc-b61f-5111544f9d04)
 
