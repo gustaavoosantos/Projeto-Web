@@ -53,12 +53,14 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 
 **Página da 1 até a 4**
 
-![Pag 1 à 4](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/a2cb3cf1-9329-4e19-aee7-a9d4b79f8816)
+![Pag 1 à 4](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/da164ce7-e3a2-4e16-8aeb-23997456d707)
+
 
 
 **Página da 5 até a 8**
 
-![Pag 5 à 8](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/7ed0125d-4dc7-41f2-adcc-b9ed2d48bccf)
+![Pag 5 à 8 ](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/2d717008-41a5-49f3-8e01-4135fcdf355c)
+
 
 
 
