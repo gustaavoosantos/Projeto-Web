@@ -15,7 +15,7 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 **Tamanho usado nas fontes:** 12, 15, 16.5, 18,19, 22, 25, 45, 50, 100.
 
 
-**ìcones e logo**
+**Ícones e logo**
 
 
 ![Ícones](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/f0a1bed6-b053-447d-bee7-1bce568193f8)
