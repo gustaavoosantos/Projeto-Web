@@ -24,7 +24,7 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 **Paleta de cores**
 
 
-![Paleta de Cores](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/1c1ab502-b36c-40d5-8d19-17a5c8050f9b)
+![Projeto Web (1)](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/d12cf2c8-a804-4575-a631-162ba978cf03)
 
 
 
@@ -51,15 +51,11 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 
 **RESULTADO FINAL DO LAYOUT DO SITE**
 
-**Página da 1 até a 4**
+**Página da 1 até a 8**
 
-![Pag 1 à 4](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/da164ce7-e3a2-4e16-8aeb-23997456d707)
+![Projeto Web](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/e5836d94-d4a2-42d2-8f53-f919b3b8637e)
 
 
-
-**Página da 5 até a 8**
-
-![Pag 5 à 8 ](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/2d717008-41a5-49f3-8e01-4135fcdf355c)
 
 
 
