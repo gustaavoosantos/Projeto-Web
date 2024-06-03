@@ -44,7 +44,10 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 ![Mike 1](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/0c848238-6781-4ba4-8f48-527119bc9dc9)
 ![Traver 2](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/61cc6f6d-f156-4009-ae23-77b37ac45895)
 ![Traver 1](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/a01fe2c6-d32d-43b1-afef-ccd56b0d3804)
-![drummer-music-set-drum-kit-band-wallpaper-preview](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/b6da9de3-0a1d-41e9-8739-4697f4038db7)
+![Background img1](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/9cb5de2c-665c-4dc0-aac4-3b87777ab229)
+![Background img2](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/d4ff0694-0f2c-429e-9e7c-096046cbe2a1)
+![Drums img](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/7a21b387-0394-4577-a367-eb15673f905e)
+
 
 
 
