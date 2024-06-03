@@ -12,7 +12,7 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 
 **Fonte: Bebas_Neue**
 
-**Tamanho usado nas fontes:** 12, 15, 16.5, 18,19, 22, 25, 45, 50, 100.
+**Tamanho usado nas fontes:** 16, 17, 18, 22, 28, 31, 35, 40, 45, e 120.
 
 
 **Ícones e logo**
@@ -23,6 +23,7 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 **Paleta de cores**
 
 
+![Projeto Web (2)](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/b8546e59-c06e-4561-ae54-c73fb7c9432a)
 
 
 
