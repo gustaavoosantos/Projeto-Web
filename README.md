@@ -17,11 +17,13 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 
 **Ícones e logo**
 
+![Projeto Web (1)](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/d12cf2c8-a804-4575-a631-162ba978cf03)
+
 
 **Paleta de cores**
 
 
-![Projeto Web (1)](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/d12cf2c8-a804-4575-a631-162ba978cf03)
+
 
 
 
