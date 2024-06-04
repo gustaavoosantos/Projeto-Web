@@ -10,7 +10,7 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 **Tema: "Música"; "Os melhores Bateristas do mundo"** 
 
 
-**Fonte: Bebas_Neue**
+**Fonte: Bebas_Neue e Be_Vietnam_Pro**
 
 **Tamanho usado nas fontes:** 16, 17, 18, 22, 28, 31, 35, 40, 45, e 120.
 
