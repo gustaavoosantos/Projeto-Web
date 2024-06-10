@@ -62,7 +62,7 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 
 
 
-
+*Observação: Fiz algumas alterações na paleta de cores, fontes e imagens para melhor adaptação do site*
 
 
 
