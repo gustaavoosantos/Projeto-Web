@@ -23,7 +23,8 @@ Esse layout será um protótipo do nosso futuro site que será desenvolvido.
 **Paleta de cores**
 
 
-![Projeto Web (2)](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/b8546e59-c06e-4561-ae54-c73fb7c9432a)
+![Projeto Web (3)](https://github.com/gustaavoosantos/Projeto-Web/assets/163207767/b1b70ba2-77e3-496f-bac5-801f84f98fe5)
+
 
 
 
